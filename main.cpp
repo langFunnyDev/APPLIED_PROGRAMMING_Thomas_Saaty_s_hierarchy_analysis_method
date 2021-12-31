@@ -60,7 +60,7 @@ int main() {
     }
 
     // Вывод подсчитанных коэффициентов
-    std::cout << std::endl << std::endl << "Ваши итоговы коэффициенты для параметров:" << std::endl << std::endl;
+    std::cout << std::endl << std::endl << "Ваши итоговые коэффициенты для параметров:" << std::endl << std::endl;
     for (int i = 0; i < n; ++i) {
         std::cout << names[i] << " = ";
         std::cout << std::fixed << std::setprecision(2) << a[i][n + 1] << std::endl;
