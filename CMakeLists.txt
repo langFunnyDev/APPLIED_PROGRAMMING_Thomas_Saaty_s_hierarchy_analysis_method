@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.20)
+project(APPLIED_PROGRAMMING_Thomas_Saaty_s_hierarchy_analysis_method)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(APPLIED_PROGRAMMING_Thomas_Saaty_s_hierarchy_analysis_method main.cpp)
